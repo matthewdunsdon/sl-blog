@@ -532,6 +532,8 @@ authors:
     picture: picture.jpg
   mdunsdon:
     name: 'Matthew Dunsdon'
+    author-summary: 'Matthew is a determined solver of problems, whether those are technological or social in nature.'
+    feed-description: 'Some of Matthew Dunsdon''s insights into the delivery of software solutions.'
     picture: picture.jpg
   mjose:
     name: 'Mark Jose'
